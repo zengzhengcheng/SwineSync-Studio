@@ -7,6 +7,7 @@ This repository is for **binary distribution** rather than open-source code host
 ## Related Repository
 
 - Open-source companion repository: [SwineSync-OpenSource](https://github.com/zengzhengcheng/SwineSync-OpenSource)
+- Public packaged-release repository: [SwineSync-Studio](https://github.com/zengzhengcheng/SwineSync-Studio)
 
 ## What To Download
 

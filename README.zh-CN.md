@@ -7,6 +7,7 @@
 ## 关联仓库
 
 - 开源配套仓库：[SwineSync-OpenSource](https://github.com/zengzhengcheng/SwineSync-OpenSource)
+- 打包版发布仓库：[SwineSync-Studio](https://github.com/zengzhengcheng/SwineSync-Studio)
 
 ## 用户需要下载的文件
 

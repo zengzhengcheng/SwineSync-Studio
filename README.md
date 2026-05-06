@@ -18,7 +18,10 @@ Users should download the following release assets from the Releases page:
 - `tragan_model.onnx.enc`
 - `traganbase_model.onnx.enc`
 - `first.obj`
-- `初始模型.obj`
+
+The empty placeholder file below is provided directly in the repository:
+
+- `release_layout/userModels/初始模型.obj`
 
 ## Required Folder Layout
 
@@ -26,14 +29,14 @@ After downloading, place the files in the following structure:
 
 ```text
 SwineSync-Studio/
-├── main.exe
-├── models/
-│   ├── trabase_model.onnx.enc
-│   ├── tragan_model.onnx.enc
-│   └── traganbase_model.onnx.enc
-└── userModels/
-    ├── first.obj
-    └── 初始模型.obj
+|-- main.exe
+|-- models/
+|   |-- trabase_model.onnx.enc
+|   |-- tragan_model.onnx.enc
+|   `-- traganbase_model.onnx.enc
+`-- userModels/
+    |-- first.obj
+    `-- 初始模型.obj
 ```
 
 ## Important Notes

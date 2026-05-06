@@ -18,7 +18,10 @@
 - `tragan_model.onnx.enc`
 - `traganbase_model.onnx.enc`
 - `first.obj`
-- `初始模型.obj`
+
+下面这个空白占位文件直接放在仓库目录里：
+
+- `release_layout/userModels/初始模型.obj`
 
 ## 正确目录结构
 
@@ -26,14 +29,14 @@
 
 ```text
 SwineSync-Studio/
-├── main.exe
-├── models/
-│   ├── trabase_model.onnx.enc
-│   ├── tragan_model.onnx.enc
-│   └── traganbase_model.onnx.enc
-└── userModels/
-    ├── first.obj
-    └── 初始模型.obj
+|-- main.exe
+|-- models/
+|   |-- trabase_model.onnx.enc
+|   |-- tragan_model.onnx.enc
+|   `-- traganbase_model.onnx.enc
+`-- userModels/
+    |-- first.obj
+    `-- 初始模型.obj
 ```
 
 ## 使用提醒

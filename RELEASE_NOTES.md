@@ -25,3 +25,5 @@ Usage notes:
 - If you move it, re-download the software.
 - If you need multiple parallel copies, download separate copies into different filesystem locations.
 - This build stops working after `2027-05-05`.
+- The expiration date will be updated whenever a new version is released.
+- This is intended to encourage users to keep using the latest version of the software, because new releases will continue to include new features, improvements, and fixes.

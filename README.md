@@ -48,7 +48,8 @@ SwineSync-Studio/
 - If the user moves the software to another location, they should re-download it.
 - If multiple parallel copies are needed, users should download separate copies into different filesystem locations.
 - This packaged build stops working after `2027-05-05`.
-- The time limit and location-lock behavior are intentional and are used to encourage users to check for updates regularly.
+- The expiration date will be updated whenever a new version is released.
+- This is intended to encourage users to keep using the latest version of the software, because new releases will continue to include new features, improvements, and fixes.
 
 ## Scope
 
